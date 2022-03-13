@@ -2,7 +2,7 @@
 // First commit NR
 //3rd commit
 
-public class HelloWorld {
+public class Test1 {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
